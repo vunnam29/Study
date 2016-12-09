@@ -1,0 +1,187 @@
+
+SELECT        packagename, packageid
+FROM            package
+WHERE        (packageid = 'n21','n23','n25','n26','n27','n34','n35','n38','n39','n40','s40','s41','s42','s43','s54','s44','s45','s46','s47','s48','n122','n123','n124','a74','a75','a76','a77','a78','a79','a81','a85','a87','a92','s84','s86','s81','s83','s58','s21','s10','s60','a57','s39','s34','s53','s19','s98','s46','s59','s48','s25','s47','s48','h58','h57','h58','h41','h53','h64','h28','h65','h38','h68','h94','h58','h56');
+
+
+
+
+
+
+
+
+Asia=>
+1. Chiang Mai,Thailand
+Spend your first day in Chiang Mai,visit Chiang Mai Arts & Cultural Centre,Chiang Mai Thai Food & Shopping
+
+
+2.EI Nido
+El Nido Island,Seafood and Fireflies,Road Trip to Paradise,snorkeling, swimming, beaches and lunch at the beach.
+
+3.Koh Samui,Thailand
+begin your stay with an island tour,You’ll also visit the Na Muang waterfall,Explore the Marine Park
+Spend your last day in the jungle
+
+4.LangKawi Malyasia
+ Get Wet in Langkawi,visiting several islands and beaches, including the inner lagoon of Pregnant Maiden Lake. Most shoppers begin at adorable Oriental Village, an Asian-themed shopping center 
+
+5.Malyasian Borneo (Sabah)
+Visit Kota Kinabalu,get your souvenir shopping over with at the Craft Market ,visit Kota Kinabalu National Park
+Experence Kinabatangan River Safari.
+
+6.Maldives
+arrive into Male the Capital of the Paradise,on the island You could also spend time snorkelling and admiring the fabulous Undersea Life,there are some excellent Dive Sites available,DEPART MALE
+
+7.Srilanka
+Visit Anuradhapura,Climb Sigiriya Rock,Kandy - via Pinnawala Elephant Orphanage,Visit tea plantation and tea factory,Stay overnight in Tissamaharama
+Drive along the south coast to Galle/Unawatuna/Hikkaduwa
+
+8.Vietnam,Nha Trang and Halong Bay
+Arrive at any time to Ho Chi Minh City. Overnight train to Nha Trang,explore local shops and markets,experence a boat trip to nearby islands for some snorkelling,Overnight train to Hoi An,Visit Halong Bay for a seafood lunch cruise and cave visit.
+Arrive early morning to bustling Hanoi, the capital of Vietnam.
+
+9.Japan
+Arrive in Osaka,Proceed to Nara.Visit Todaiji Temple and the Nara Deer Park.At Kyoto visit Kiyomizu Temple, Golden Pavilion and the Nijo Castle,Hiroshima - Hakone - Tokyo
+Arrive in Beijing,Xian - Guilin
+
+10.Singapore
+visit Kuala Lumpur - Genting Highlands,Enjoy Indoor Theme Park alongwith Snow World,Visit Sunway Lagoon - Putrajaya,Visit Flower Dome, Cloud Forest Dome,visit Parliament House, Suntec City, Fountain of Wealth, City Hall, Orchard Road and Swiss-the tallest hotel in Singapore.Experience the Singapore Flyer ride 
+
+11.South Korea
+places to see:- Seaoul skyline,Royal guard parade,National folk museum,Nam Dae Mun market
+
+12.Indonesia
+visit Bogor The main attraction in Bogor is the fantastic botanical garden,Pangandaran,Yogya-The main attraction in Yogya is the stunning Buddhist temple of Borobudur,Gunung Bromo is a popular destination for tourists 
+
+13.Turkey
+Arrival to Istanbul in the morning and visit places stanbul, Cappadocia, Konya, Pamukkale, Ephesus
+
+14.Hong Kong
+Arrive in Hong Kong. Proceed to Shenzhen,Visit OCT East , the national ecological resort,Visit Windows of the world theme park,Proceed to Macau,Experience the magic of excitement and entertainment at Disney land,Departure from Hong Kong
+
+
+15.Taiwan
+visit Taipei is a fascinating city,Taroko Gorge is one of the seven wonders of Asia,experience Parks, Art and Hot Springs.
+
+
+16.Malaysia
+See colonial architecture in the UNESCO city,Try the monorail in Kuala Lumpur,Visit the vast tea plantations of the Cameron Highlands 
+
+
+17.Cambodia
+If you like history and ancient temples, then consider making Luang Prabang and Siem Reap the central part of your trip,For beaches and relaxation, start with the laid-back islands in the Mekong
+
+
+
+18.Laos
+visit Laos most important national monument, Pha That Luang,beautiful temples of the inner city, such as Wat Si Saket,Vang Vieng is one of the most stunning places in Laos,Enjoy the peaceful Nam Song
+
+
+19.Thailand
+Arrive in Bangkok. Proceed to Pattaya,Visit Nong Nooch Village for Elephant show, Tropical Garden, Orchid Garden and Pottery Garden,Enjoy Pattaya Park tower which holds the real wonder of showcasing 
+
+
+
+20.Agra 
+Soami Bagh,Ram Bagh,Mehtab Bagh,Balkeshwar Temple,Rajeshwar Temple,Sikandra,Itmad-Ud-Daulah's Tomb,Mariam's Tomb.
+
+
+21.Udaipur
+
+
+22.Jaisalmer
+Reach Jaisalmer,visit havelis and lake,Next day visit Fort ( Jain temple, palace, city view point ),visit - bada bagh, amar sagar, Ludrava, mool sagar, kuldhara, Khaba Fort
+
+
+23.Pushkar
+
+24.Rishikesh
+
+
+25.Kovalam
+You can enjoy crescent-shaped beaches of Kovalam
+The southern most beach – Lighthouse beach, the middle beach – Hawa beach and the northern most beach – Samudra beach
+
+
+26.Goa
+Arrive at Goa.North Goa tour includes Panaji, the capital of Goa. Visit Famous churches of Old Goa which reflect the richness of Greco-Roman architectural style, Dona Paula, Baga Beach / Calangute Beach, and Vagator with an old fort - Fort Aguada overlooking thebeach. Free for shopping. Later enjoy a boat cruise and admire the sunset views.
+
+
+
+27.Andaman
+
+
+28.Pondicherry
+    The Beach / Promenade
+    The French Quarter
+    Barathi Park / Government Park
+    Churches -
+    Botanical garden -
+    Chunnambar Boat House
+    Oustery Lake
+    Paradise Beach 
+    Sri Aurobindo Ashram -
+    Auroville International city
+
+
+
+29.Tarkarli
+
+
+30.Darjeeling
+
+
+31.Srinagar
+
+
+32.Jaipur
+
+
+33.Coorg
+Arrive at Mangalore, Enjoy the city tour of Coorg. Visit Omkareshwar Temple, Talacauvery - birthplace of the holy river Cauvery, and Abbey falls, Raja's Seat.
+Visit to Golden Temple one of the Biggest Tibetian Monestry of India.
+
+
+34.Ooty
+
+
+35.Nainital
+Snow View,Nanda Devi Temple,St. John in the Wilderness,Tiffin Top,Gurney House,Guano Hills.
+
+
+36.Shimla
+Proceed to Shimla. En-route visit Pinjore Garden,Visit Kufri Fun Campus & & Naldehra,Later visit Kufri - Winter Sports Capital, Indira Bungalow and Himalayan Zoo.
+
+
+37.Manali
+Rohtang Pass,Hadimba Temple,Maa Sharvari Temple,Kalath Hot Water Spring,Jogini Falls,Jagatsukh,Zana Falls.
+
+38.Mahabaleshwar
+
+
+### Europe =>
+
+
+1.Bali
+Places to visit include
+Pura Uluwatu,Tanah Lot,Ubud,Mount Batur,Pura Besakih,
+Tirta Empul,Tegalalang
+
+
+2.Santorini
+visit Oia,Fira walk,Santorini Sunset,Amoudi Bay,Red Beach, Santorini
+
+3.Savannah
+One of the best things about Savannah is that it’s a pleasure to stroll,Food and Fun at  Savannah’s Broughton Street,
+Part of the great thing about Savannah is that it’s chock-full of history.
+
+
+4.Italy
+Visit St Mark's Square and Basilica,The Rialto Bridge and markets, Venice's best known art gallery
+
+
+5. Cape town
+visit Cape Town crawl,Table Mountain,See the surfers catch mighty waves at Camps Bay, behind Table Mountain,see Africa’s wildlife .
+
+6.Orkeny scotland
+visit Orkney Islands,travel along the wild northeast coastline,visit Gills Bay, Ben Loyal and Ben Hope,most beautiful beaches in the British Isles.
