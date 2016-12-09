@@ -1,0 +1,23 @@
+SQOOP:
+its a tool in hadoop ecosystem.
+RDBMS can store structure data and can process structured data.
+If we get very large amount of structured data its deficult to store and process it in RDBMS,in this case we can store that data in HDFS because hadoop can even support for structured data .To migrate the data from RDBMS to HDFS we use SQOOP.
+Sqoop can be used as interface b/w RDBMS & HDFS , its used for both importing & exporting .
+Sqoop is built on mapreduce.
+By default sqoop work with for mappers.
+Sqoop doesnt work with reducer.
+Output of sqoop will be given dirctly by mappers it self.
+Command for No of mappers you want to work with.
+-m <no.of mappers>
+Command for export data from sqoop to Rdbms
+>--connect jdbc:mysql://<hostname>/<database>\
+>--username <username>--password <password>\
+>--table <tablename>\
+>--export--dir<directory path> press enterbutton.
+Command for importing data from rdbms to sqoop
+>--connect jdbc:mysql://<hostname>/<databasename>\
+>--username <username> --password <password>\
+>--table <tablename> -- fields-terminated-by'\t'
+>--columns "field1,field2,....
+all the columns but with a condition 
+>-- where "field name condition" press enter.
