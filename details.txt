@@ -1,4 +1,4 @@
-
+# Comment
 SELECT        packagename, packageid
 FROM            package
 WHERE        (packageid = 'n21','n23','n25','n26','n27','n34','n35','n38','n39','n40','s40','s41','s42','s43','s54','s44','s45','s46','s47','s48','n122','n123','n124','a74','a75','a76','a77','a78','a79','a81','a85','a87','a92','s84','s86','s81','s83','s58','s21','s10','s60','a57','s39','s34','s53','s19','s98','s46','s59','s48','s25','s47','s48','h58','h57','h58','h41','h53','h64','h28','h65','h38','h68','h94','h58','h56');
@@ -19,7 +19,7 @@ Spend your first day in Chiang Mai,visit Chiang Mai Arts & Cultural Centre,Chian
 El Nido Island,Seafood and Fireflies,Road Trip to Paradise,snorkeling, swimming, beaches and lunch at the beach.
 
 3.Koh Samui,Thailand
-begin your stay with an island tour,You’ll also visit the Na Muang waterfall,Explore the Marine Park
+begin your stay with an island tour,Youâ€™ll also visit the Na Muang waterfall,Explore the Marine Park
 Spend your last day in the jungle
 
 4.LangKawi Malyasia
@@ -100,7 +100,7 @@ Reach Jaisalmer,visit havelis and lake,Next day visit Fort ( Jain temple, palace
 
 25.Kovalam
 You can enjoy crescent-shaped beaches of Kovalam
-The southern most beach – Lighthouse beach, the middle beach – Hawa beach and the northern most beach – Samudra beach
+The southern most beach â€“ Lighthouse beach, the middle beach â€“ Hawa beach and the northern most beach â€“ Samudra beach
 
 
 26.Goa
@@ -172,8 +172,8 @@ Tirta Empul,Tegalalang
 visit Oia,Fira walk,Santorini Sunset,Amoudi Bay,Red Beach, Santorini
 
 3.Savannah
-One of the best things about Savannah is that it’s a pleasure to stroll,Food and Fun at  Savannah’s Broughton Street,
-Part of the great thing about Savannah is that it’s chock-full of history.
+One of the best things about Savannah is that itâ€™s a pleasure to stroll,Food and Fun at  Savannahâ€™s Broughton Street,
+Part of the great thing about Savannah is that itâ€™s chock-full of history.
 
 
 4.Italy
@@ -181,7 +181,7 @@ Visit St Mark's Square and Basilica,The Rialto Bridge and markets, Venice's best
 
 
 5. Cape town
-visit Cape Town crawl,Table Mountain,See the surfers catch mighty waves at Camps Bay, behind Table Mountain,see Africa’s wildlife .
+visit Cape Town crawl,Table Mountain,See the surfers catch mighty waves at Camps Bay, behind Table Mountain,see Africaâ€™s wildlife .
 
 6.Orkeny scotland
 visit Orkney Islands,travel along the wild northeast coastline,visit Gills Bay, Ben Loyal and Ben Hope,most beautiful beaches in the British Isles.
